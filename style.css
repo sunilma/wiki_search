@@ -1,0 +1,44 @@
+body {
+	background-image: url(background.jpg);
+}
+
+#search_box {
+width: 30%;
+height: auto;
+margin-left: 35%;
+margin-top: 300px;
+background-color: white;
+opacity: .7;
+border-radius: 10px;
+padding: 10px;
+}
+
+h2 {
+	text-align: center;
+	font-size: 2em;
+	font-weight: bold;
+	color: #00FFFF;
+}
+
+#search-box #search {
+	padding: 20px;
+
+}
+
+.info {
+	background-color: white;
+	width: 80%;
+	margin: 20px 10%;
+	padding: 10px;
+	border-radius: 10px;
+	opacity: .8;
+}
+
+.info a {
+	text-decoration: none;
+	color: black;
+}
+
+.info h3 {
+	font-weight: bold;
+}
